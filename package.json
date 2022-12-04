@@ -1,10 +1,10 @@
 {
-    "name": "nx-pnpm",
-    "private": "true",
-    "scripts": {},
-    "author": "Raphael Gimenez",
-    "license": "MIT",
-    "devDependencies": {
-        "nx": "^15.2.4"
-    }
+  "name": "nx-pnpm",
+  "private": "true",
+  "scripts": {},
+  "author": "Raphael Gimenez",
+  "license": "MIT",
+  "devDependencies": {
+    "nx": "15.2.4"
+  }
 }
