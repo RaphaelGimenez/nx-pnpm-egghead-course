@@ -1,0 +1,15 @@
+{
+    "private": true,
+    "name": "shared-ui",
+    "description": "Shared UI components",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "react": "^18.2.0"
+    },
+    "devDependencies": {
+        "typescript": "^4.8.4"
+    }
+}
