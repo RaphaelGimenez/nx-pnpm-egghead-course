@@ -11,6 +11,7 @@
   },
   "targetDefaults": {
     "build": {
+      "inputs": ["!{projectRoot}/**/*.md"],
       "outputs": ["{projectRoot}/dist"]
     }
   },
